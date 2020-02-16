@@ -1,0 +1,6 @@
+# Git files
+.git*
+*.md
+
+# Test folder
+test*
